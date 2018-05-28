@@ -17,7 +17,7 @@
 `sudo pip install python-firebase`
 
 
-[https://www.onlinekhabar.com](https://www.onlinekhabar.com)
+##### you may need to edit the code at nepalinews/spiders/onlinekhabr.py
 
 
 Please note that you might need to make some changes to the scraper 
