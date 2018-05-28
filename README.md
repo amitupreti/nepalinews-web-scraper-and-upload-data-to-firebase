@@ -13,6 +13,7 @@
 
 #### install firebase python
 `sudo pip install requests==1.1.0`
+
 `sudo pip install python-firebase`
 
 
