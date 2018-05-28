@@ -11,6 +11,10 @@
 
      This scraper was purely  built for research purpose. 
 
+#### install firebase python
+`sudo pip install requests==1.1.0`
+`sudo pip install python-firebase`
+
 
 [https://www.onlinekhabar.com](https://www.onlinekhabar.com)
 
