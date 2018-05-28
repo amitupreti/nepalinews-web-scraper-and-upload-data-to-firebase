@@ -11,8 +11,8 @@ from scrapy import Request
 
 #defining connection to firebase server
 from firebase import firebase
-firebase = firebase.FirebaseApplication('https://articlesummarizer.firebaseio.com/', None)
-
+firebase = firebase.FirebaseApplication('https://yourapplication.firebaseio.com/', None)
+#please use the link to you firebase application
 
 
 class OnlinekhabrSpider(scrapy.Spider):
