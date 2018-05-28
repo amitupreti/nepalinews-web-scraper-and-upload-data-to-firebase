@@ -23,11 +23,11 @@ changed.( the scraping is totally based on CSS)
  1. clone this repository to your computer
  2. Launch terminal
  3. Navigate to the folder with file scrapy.cfg
- 4. `scrapy crawl onlinekhabr -a -a address="https://www.onlinekhabar.com/content/opinion" 
+ 4. `scrapy crawl onlinekhabr -a -a address="https://onlinekhabar.com/content/news/" 
 
  This is the sample code
 
- `scrapy crawl onlinekhabr  -a address="https://www.onlinekhabar.com/content/opinion" 
+ `scrapy crawl onlinekhabr  -a address="https://onlinekhabar.com/content/news/" 
 
  ### Explanation of code :  
    * it will extract  news title and  news article  and upload the data in json format to firebase
