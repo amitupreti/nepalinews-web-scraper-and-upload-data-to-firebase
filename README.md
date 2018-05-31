@@ -33,7 +33,7 @@ changed.( the scraping is totally based on CSS)
 
  This is the sample code
 
- `scrapy crawl onlinekhabr  -a address="https://onlinekhabar.com/content/news/" 
+ `scrapy crawl onlinekhabr  -a address="https://onlinekhabar.com/content/news/" `
 
  ### Explanation of code :  
    * it will extract  news title and  news article  and upload the data in json format to firebase
